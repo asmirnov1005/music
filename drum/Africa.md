@@ -1,11 +1,11 @@
 # Africa
 
-## Kuku
+## Guinea: Kuku
 
 Code:
 
 ```
-Š·tt·t·tS·ttS···
+Ś·tt·t·tS·ttS···
 ```
 
 Rhythm #1:
@@ -32,21 +32,7 @@ Rhythm #4:
 B··B··B···ttS·S·
 ```
 
-## Reggae
-
-Version #1:
-
-```
-BtSSttStttSSttSt
-```
-
-Version #2:
-
-```
-B·SS··S···SS··S·
-```
-
-## Yankadi
+## Guinea: Yankadi
 
 Code #1:
 
