@@ -45,3 +45,37 @@ Version #2:
 ```
 B·SS··S···SS··S·
 ```
+
+## Yankadi
+
+Code #1:
+
+```
+×2: ttttSSSSttttSSS·
+×2: ttSSttSSttttSSS·
+```
+
+Code #2:
+
+```
+×3: S·S·S·S·S·S·t···
+×1: ttt·t·t·t·t·S···
+```
+
+Rhythm #1:
+
+```
+BB·tBBtt
+```
+
+Rhythm #2:
+
+```
+S·S·S·tt·S·ttSS·
+```
+
+Rhythm #3:
+
+```
+SttSttBBtBttSStt
+```
